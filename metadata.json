@@ -1,0 +1,6 @@
+{
+  "name": "바이브 카페 (Vibe Cafe)",
+  "description": "따뜻한 감성의 바이브 카페 음료 주문서 및 게시판 앱. 실시간 예상 금액 계산과 Supabase 테이블 쿼리를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
